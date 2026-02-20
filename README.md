@@ -19,7 +19,7 @@ location = "Iran"
 
 ---
 
-**2025 Goals**
+**2026 Goals**
 
 - [ ] Master Python fundamentals
 - [ ] Learn NumPy & Pandas
